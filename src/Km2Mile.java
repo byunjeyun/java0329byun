@@ -1,3 +1,4 @@
+import InterfaceEx13.Circle;// 다른 패키지의 클래스 불러오기
 
 public class Km2Mile extends Converter {
 
